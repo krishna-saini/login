@@ -1,0 +1,13 @@
+.btn {
+  padding: 0.5rem 1rem;
+  font-weight: bold;
+  border: 0.5px solid black;
+  background-color: purple;
+  color: #fff;
+}
+
+.btn:hover {
+  background-color: lightcoral;
+  border: 0.5px solid brown;
+  cursor: pointer;
+}
